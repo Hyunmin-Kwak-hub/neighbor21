@@ -127,6 +127,56 @@
         <mxCell id="mQip_7yPlVIr9bpcAe75-28" value="로그인 응답" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1159.5" as="sourcePoint" />
+            <mxPoint x="400" y="1159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-30" value="채팅방 생성 요청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1199.5" as="sourcePoint" />
+            <mxPoint x="700" y="1199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQip_7yPlVIr9bpcAe75-31">
+          <mxGeometry x="-0.0267" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-32" value="채팅방 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1259.5" as="sourcePoint" />
+            <mxPoint x="400" y="1259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-35" value="채팅방 ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1299.5" as="sourcePoint" />
+            <mxPoint x="100" y="1299.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-38" value="채팅방 생성 응답" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1439.5" as="sourcePoint" />
+            <mxPoint x="400" y="1439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-40" value="메시지 전송(채팅방ID)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1420" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

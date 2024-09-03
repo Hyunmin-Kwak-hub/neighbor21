@@ -1,27 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="페이지-1" id="5Nco7DbLIY9qKy2n7g9x">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mQip_7yPlVIr9bpcAe75-72" value="" style="swimlane;startSize=0;fillColor=default;gradientColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-72" value="" style="swimlane;startSize=0;fillColor=default;gradientColor=none;rounded=0;glass=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry y="400" width="800" height="2320" as="geometry">
             <mxRectangle y="400" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mQip_7yPlVIr9bpcAe75-72">
+          <mxGeometry x="10" y="10" width="780" height="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="mQip_7yPlVIr9bpcAe75-52" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="2300" as="sourcePoint" />
             <mxPoint x="400" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-17" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="1080" as="sourcePoint" />
             <mxPoint x="400" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-8" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="979.5" as="sourcePoint" />
             <mxPoint x="400" y="979.5" as="targetPoint" />
@@ -57,240 +60,240 @@
         <mxCell id="blTJPh1M88m8MIHzCtPk-15" value="메시지" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-1" value="클라이언트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-1" value="클라이언트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-2" value="데이터베이스" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-2" value="데이터베이스" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-3" value="서버" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-3" value="서버" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-4" value="시퀀스 다이어그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-4" value="시퀀스 다이어그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="478" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="2640" as="sourcePoint" />
             <mxPoint x="440" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-3">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="2640" as="sourcePoint" />
             <mxPoint x="440" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-2">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="2640" as="sourcePoint" />
             <mxPoint x="670" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-12" value="연결 요청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-12" value="연결 요청" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-14" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1019.5" as="sourcePoint" />
             <mxPoint x="700" y="1019.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-15" value="연결 수락" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-15" value="연결 수락" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-16" value="연결 완료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-16" value="연결 완료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-21" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1239.5" as="sourcePoint" />
             <mxPoint x="400" y="1239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-22" value="로그인 요청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-22" value="로그인 요청" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-23" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1279.5" as="sourcePoint" />
             <mxPoint x="700" y="1279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-24" value="사용자 검증" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-24" value="사용자 검증" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-25" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="1340" as="sourcePoint" />
             <mxPoint x="400" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-26" value="사용자 데이터" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-26" value="사용자 데이터" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-27" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1380" as="sourcePoint" />
             <mxPoint x="100" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-28" value="로그인 응답" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-28" value="로그인 응답" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-29" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1559.5" as="sourcePoint" />
             <mxPoint x="400" y="1559.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-30" value="채팅방 생성 요청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-30" value="채팅방 생성 요청" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="1540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-31" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1599.5" as="sourcePoint" />
             <mxPoint x="700" y="1599.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQip_7yPlVIr9bpcAe75-31">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="mQip_7yPlVIr9bpcAe75-31">
           <mxGeometry x="-0.0267" y="-3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-32" value="채팅방 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-32" value="채팅방 생성" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-34" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="1659.5" as="sourcePoint" />
             <mxPoint x="400" y="1659.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-35" value="채팅방 ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-35" value="채팅방 ID" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-37" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1699.5" as="sourcePoint" />
             <mxPoint x="100" y="1699.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-38" value="채팅방 생성 응답" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-38" value="채팅방 생성 응답" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-39" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1879.5" as="sourcePoint" />
             <mxPoint x="400" y="1879.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-40" value="메시지 전송(채팅방ID)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-40" value="메시지 전송(채팅방ID)" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="1860" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-41" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1919.5" as="sourcePoint" />
             <mxPoint x="700" y="1919.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-42" value="메시지 라우팅,&lt;div&gt;메시지 저장&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-42" value="메시지 라우팅,&lt;div&gt;메시지 저장&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-43" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="1999.5" as="sourcePoint" />
             <mxPoint x="400" y="1999.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-44" value="수신자에게 메시지 전송" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-44" value="수신자에게 메시지 전송" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="1980" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="2039.5" as="sourcePoint" />
             <mxPoint x="100" y="2039.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-46" value="메시지 수신" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-46" value="메시지 수신" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="2020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-47" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="2199.5" as="sourcePoint" />
             <mxPoint x="400" y="2199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-48" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-48" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="2180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-49" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="2239.5" as="sourcePoint" />
             <mxPoint x="700" y="2239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-50" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-50" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="2220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-51" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-51" value="연결 종료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="2280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-53" value="서버 연결" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-53" value="서버 연결" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="880" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-54" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-54" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1140" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-55" value="채팅방 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-55" value="채팅방 생성" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1460" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-56" value="채팅(메시지)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-56" value="채팅(메시지)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1780" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-57" value="연결 종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-57" value="연결 종료" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="2100" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-58" value="소켓 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-58" value="소켓 생성" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="660" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-59" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="759.5" as="sourcePoint" />
             <mxPoint x="400" y="759.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-60" value="소켓 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-60" value="소켓 생성" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="740" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-63" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="819.5" as="sourcePoint" />
             <mxPoint x="100" y="819.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-64" value="소켓 생성 완료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-64" value="소켓 생성 완료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-65" value="연결 종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-65" value="연결 종료" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="2360" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-66" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="2459.5" as="sourcePoint" />
             <mxPoint x="400" y="2459.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-67" value="소켓 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-67" value="소켓 종료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-70" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="2520" as="sourcePoint" />
             <mxPoint x="100" y="2520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQip_7yPlVIr9bpcAe75-71" value="소켓 통신 종료 완료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQip_7yPlVIr9bpcAe75-71" value="소켓 통신 종료 완료" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="2500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

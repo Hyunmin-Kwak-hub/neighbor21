@@ -188,6 +188,12 @@
         <mxCell id="OMf5q3nYXlA3u1OJrj_J-4" value="소켓 생성" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="mQip_7yPlVIr9bpcAe75-72" vertex="1">
           <mxGeometry x="190" y="275" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SfTSVZw1g1ZskcPOhj9P-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mQip_7yPlVIr9bpcAe75-72" target="mQip_7yPlVIr9bpcAe75-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="2030" as="sourcePoint" />
+            <mxPoint x="101" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OMf5q3nYXlA3u1OJrj_J-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="mQip_7yPlVIr9bpcAe75-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1980" as="sourcePoint" />
@@ -205,6 +211,9 @@
             <mxPoint x="700" y="2030" as="sourcePoint" />
             <mxPoint x="700" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OMf5q3nYXlA3u1OJrj_J-7" value="소켓 닫기" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontStyle=1" parent="mQip_7yPlVIr9bpcAe75-72" vertex="1">
+          <mxGeometry x="180" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mQip_7yPlVIr9bpcAe75-53" value="서버 연결" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=15;fillColor=#ebf1f9;strokeColor=none;" parent="mQip_7yPlVIr9bpcAe75-72" vertex="1">
           <mxGeometry x="40" y="380" width="720" height="40" as="geometry" />
@@ -224,9 +233,6 @@
         <mxCell id="mQip_7yPlVIr9bpcAe75-57" value="연결 종료" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=15;fillColor=#ebf1f9;strokeColor=none;" parent="mQip_7yPlVIr9bpcAe75-72" vertex="1">
           <mxGeometry x="40" y="1605" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OMf5q3nYXlA3u1OJrj_J-7" value="소켓 닫기" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontStyle=1" parent="mQip_7yPlVIr9bpcAe75-72" vertex="1">
-          <mxGeometry x="180" y="1960" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mQip_7yPlVIr9bpcAe75-1" value="클라이언트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;labelBackgroundColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -238,12 +244,6 @@
         </mxCell>
         <mxCell id="mQip_7yPlVIr9bpcAe75-4" value="시퀀스 다이어그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="275" y="78" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SfTSVZw1g1ZskcPOhj9P-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="mQip_7yPlVIr9bpcAe75-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="2040" as="sourcePoint" />
-            <mxPoint x="440" y="460" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

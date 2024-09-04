@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yUY2D14tYoqnfr_yBajZ-43" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="40" width="1400" height="1600" as="geometry" />
+          <mxGeometry x="-827" width="1400" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="s178CNuZc9Gh2SPo8cym-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yUY2D14tYoqnfr_yBajZ-43">
           <mxGeometry x="10" y="10" width="1380" height="1580" as="geometry" />
@@ -209,28 +209,28 @@
             <mxPoint x="810" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s178CNuZc9Gh2SPo8cym-1" value="소켓통신 설계" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-772" y="78" width="210" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="g9z6lTZiuhYvATAemZ8_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="g9z6lTZiuhYvATAemZ8_-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="133" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g9z6lTZiuhYvATAemZ8_-3" value="소켓 생성" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="73" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g9z6lTZiuhYvATAemZ8_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g9z6lTZiuhYvATAemZ8_-4" target="g9z6lTZiuhYvATAemZ8_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g9z6lTZiuhYvATAemZ8_-4" value="바인드" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="73" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g9z6lTZiuhYvATAemZ8_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g9z6lTZiuhYvATAemZ8_-3" target="g9z6lTZiuhYvATAemZ8_-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="sourcePoint" />
-            <mxPoint x="160" y="300" as="targetPoint" />
+            <mxPoint x="133" y="240" as="sourcePoint" />
+            <mxPoint x="133" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="s178CNuZc9Gh2SPo8cym-1" value="소켓통신 설계" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-745" y="118" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s178CNuZc9Gh2SPo8cym-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s178CNuZc9Gh2SPo8cym-3" target="g9z6lTZiuhYvATAemZ8_-3">
           <mxGeometry relative="1" as="geometry" />

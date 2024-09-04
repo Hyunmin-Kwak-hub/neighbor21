@@ -97,7 +97,7 @@
         <mxCell id="g9z6lTZiuhYvATAemZ8_-11" value="전송" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeColor=default;" parent="yUY2D14tYoqnfr_yBajZ-43" vertex="1">
           <mxGeometry x="899" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s178CNuZc9Gh2SPo8cym-41" value="채팅 메시지" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="yUY2D14tYoqnfr_yBajZ-43">
+        <mxCell id="s178CNuZc9Gh2SPo8cym-41" value="채팅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="yUY2D14tYoqnfr_yBajZ-43">
           <mxGeometry x="333.5" y="1270" width="183" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s178CNuZc9Gh2SPo8cym-42" value="클라이언트와 서버 연결" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="yUY2D14tYoqnfr_yBajZ-43">

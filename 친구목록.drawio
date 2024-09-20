@@ -10,8 +10,11 @@
         <mxCell id="mCQldhAXyMoxN78i_hk_-1" value="로그인 성공하면&lt;div&gt;친구목록 폼으로 이동&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCQldhAXyMoxN78i_hk_-2" value="친구 목록 폼은&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mCQldhAXyMoxN78i_hk_-2" value="친구 목록 폼은 리스트박스로 우선 제작" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCQldhAXyMoxN78i_hk_-3" value="친구목록 폼이 실행되면 서버에서 친구정보를 받아온다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

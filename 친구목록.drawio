@@ -45,6 +45,9 @@
         <mxCell id="jukemgydLVU4VasC8p-U-8" value="채팅방 폼이 열릴 때 친구목록 폼은 모달 리스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jukemgydLVU4VasC8p-U-10" value="채팅목록 버튼 클릭하면 채팅목록 관련 폼으로 이동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

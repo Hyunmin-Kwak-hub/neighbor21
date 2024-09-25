@@ -1,55 +1,104 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="페이지-1" id="WD8YnnUV9YajNrHjpi7d">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jukemgydLVU4VasC8p-U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKj5YuaMbmcDBtGW1ipd-1" target="mCQldhAXyMoxN78i_hk_-1">
+        <mxCell id="jukemgydLVU4VasC8p-U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UKj5YuaMbmcDBtGW1ipd-1" target="mCQldhAXyMoxN78i_hk_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UKj5YuaMbmcDBtGW1ipd-1" value="친구목록 폼" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCQldhAXyMoxN78i_hk_-1" target="mCQldhAXyMoxN78i_hk_-2">
+        <mxCell id="jukemgydLVU4VasC8p-U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mCQldhAXyMoxN78i_hk_-1" target="mCQldhAXyMoxN78i_hk_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mCQldhAXyMoxN78i_hk_-1" value="로그인 성공하면&lt;div&gt;친구목록 폼으로 이동&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCQldhAXyMoxN78i_hk_-2" target="mCQldhAXyMoxN78i_hk_-3">
+        <mxCell id="jukemgydLVU4VasC8p-U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mCQldhAXyMoxN78i_hk_-2" target="mCQldhAXyMoxN78i_hk_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mCQldhAXyMoxN78i_hk_-2" value="친구 목록 폼은 리스트박스로 우선 제작" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCQldhAXyMoxN78i_hk_-3" target="jukemgydLVU4VasC8p-U-1">
+        <mxCell id="jukemgydLVU4VasC8p-U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mCQldhAXyMoxN78i_hk_-3" target="jukemgydLVU4VasC8p-U-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mCQldhAXyMoxN78i_hk_-3" value="친구목록 폼이 열릴때 서버에 친구목록데이터를 요청함." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jukemgydLVU4VasC8p-U-1" target="jukemgydLVU4VasC8p-U-2">
+        <mxCell id="jukemgydLVU4VasC8p-U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jukemgydLVU4VasC8p-U-1" target="jukemgydLVU4VasC8p-U-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-1" value="친구목록을 받아서 리스트박스에 정렬한다.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jukemgydLVU4VasC8p-U-1" value="친구목록을 받아서 리스트박스에 정렬한다.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jukemgydLVU4VasC8p-U-2" target="jukemgydLVU4VasC8p-U-8">
+        <mxCell id="jukemgydLVU4VasC8p-U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jukemgydLVU4VasC8p-U-2" target="jukemgydLVU4VasC8p-U-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-2" value="친구목록에서 사람 이름을 클릭하면 그 사람과의 채팅방이 생성되게 한다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jukemgydLVU4VasC8p-U-2" value="친구목록에서 사람 이름을 클릭하면 그 사람과의 채팅방이 생성되게 한다." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jukemgydLVU4VasC8p-U-8" target="jukemgydLVU4VasC8p-U-10">
+        <mxCell id="jukemgydLVU4VasC8p-U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jukemgydLVU4VasC8p-U-8" target="jukemgydLVU4VasC8p-U-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-8" value="채팅방 폼이 열릴 때 친구목록 폼은 모달 리스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jukemgydLVU4VasC8p-U-8" value="채팅방 폼이 열릴 때 친구목록 폼은 모달 리스" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jukemgydLVU4VasC8p-U-10" value="채팅목록 버튼 클릭하면 채팅목록 관련 폼으로 이동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jukemgydLVU4VasC8p-U-10" value="채팅목록 버튼 클릭하면 채팅목록 관련 폼으로 이동" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-1" target="x0iYdePWhLgiK0Yyd-Qn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-1" value="로그인 성공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-2" target="x0iYdePWhLgiK0Yyd-Qn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-2" value="친구 목록 폼 열림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-4" target="x0iYdePWhLgiK0Yyd-Qn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-4" value="서버에 친구 목록 요청 메시지 데이터 패킷 전송" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-5" target="x0iYdePWhLgiK0Yyd-Qn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-5" value="서버로부터 사용자들 정보를 받으면 친구 목록 처리 로직으로 보냄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-6" target="x0iYdePWhLgiK0Yyd-Qn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-6" value="친구 목록 처리 로직에서 본인과 친구를 구분" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="800" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-7" value="본인 정보는 본인정보 리스트박스에 표시&lt;div&gt;친구정보는 이름 순으로 정렬 후 친구정보 리스트박스에 표시&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="960" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-7" target="x0iYdePWhLgiK0Yyd-Qn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="x0iYdePWhLgiK0Yyd-Qn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

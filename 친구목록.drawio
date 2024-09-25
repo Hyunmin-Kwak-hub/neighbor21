@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1160" width="810" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="10" y="10" width="790" height="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-34" target="x0iYdePWhLgiK0Yyd-Qn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-34" value="채팅목록 버튼&lt;div&gt;클릭&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="330" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-36" target="x0iYdePWhLgiK0Yyd-Qn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-36" target="x0iYdePWhLgiK0Yyd-Qn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-36" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 보이기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="530" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-38" target="x0iYdePWhLgiK0Yyd-Qn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-38" value="채팅목록 항목&lt;div&gt;더블버튼&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;클릭&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="670" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-40" target="x0iYdePWhLgiK0Yyd-Qn-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-40" value="채팅목록 항목&lt;div&gt;더블버튼&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;클릭&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="530" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="x0iYdePWhLgiK0Yyd-Qn-48" source="x0iYdePWhLgiK0Yyd-Qn-43" target="x0iYdePWhLgiK0Yyd-Qn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-43" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 숨기기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="330" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-46" value="친구와의 채팅 폼 생성&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(기존 채팅 내용 불러오기)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="670" y="1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-50" value="친구 목록 개발 시나리오" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="x0iYdePWhLgiK0Yyd-Qn-48">
+          <mxGeometry x="20" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="jukemgydLVU4VasC8p-U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UKj5YuaMbmcDBtGW1ipd-1" target="mCQldhAXyMoxN78i_hk_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -144,42 +189,6 @@
             <mxPoint x="590" y="-460" as="sourcePoint" />
             <mxPoint x="430" y="-500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-34" target="x0iYdePWhLgiK0Yyd-Qn-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-34" value="채팅목록 버튼&lt;div&gt;클릭&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-36" target="x0iYdePWhLgiK0Yyd-Qn-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-36" target="x0iYdePWhLgiK0Yyd-Qn-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-36" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 보이기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-38" target="x0iYdePWhLgiK0Yyd-Qn-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-38" value="채팅목록 항목&lt;div&gt;더블버튼&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;클릭&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-40" target="x0iYdePWhLgiK0Yyd-Qn-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-40" value="채팅목록 항목&lt;div&gt;더블버튼&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;클릭&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-43" target="x0iYdePWhLgiK0Yyd-Qn-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-43" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 숨기기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-46" value="친구와의 채팅 폼 생성&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(기존 채팅 내용 불러오기)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

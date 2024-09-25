@@ -56,7 +56,7 @@
             <mxPoint x="214" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-1" value="로그인 성공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-1" value="로그인 성공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="24" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-2" target="x0iYdePWhLgiK0Yyd-Qn-18">
@@ -68,7 +68,7 @@
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-2" target="x0iYdePWhLgiK0Yyd-Qn-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-2" value="친구 목록 폼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-2" value="친구 목록 폼" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="224" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-4" target="x0iYdePWhLgiK0Yyd-Qn-5">
@@ -109,7 +109,7 @@
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-18" value="본인 이름 클릭" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-21" value="본인과의 채팅 폼 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-21" value="본인과의 채팅 폼 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="624" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-23" target="x0iYdePWhLgiK0Yyd-Qn-25">
@@ -118,7 +118,7 @@
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-23" value="친구리스트의&amp;nbsp;&lt;div&gt;이름 클릭&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-25" value="본인과의 채팅 폼 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-25" value="본인과의 채팅 폼 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="624" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="x0iYdePWhLgiK0Yyd-Qn-28">
@@ -157,7 +157,7 @@
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-36" target="x0iYdePWhLgiK0Yyd-Qn-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-36" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 보이기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-36" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 보이기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="544" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-38" target="x0iYdePWhLgiK0Yyd-Qn-46">
@@ -175,10 +175,10 @@
         <mxCell id="x0iYdePWhLgiK0Yyd-Qn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0iYdePWhLgiK0Yyd-Qn-43" target="x0iYdePWhLgiK0Yyd-Qn-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-43" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 숨기기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-43" value="친구 목록 폼에서 채팅 목록 리스트뷰가 있는 채팅목록 패널 숨기기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="344" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-46" value="친구와의 채팅 폼 생성&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(기존 채팅 내용 불러오기)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x0iYdePWhLgiK0Yyd-Qn-46" value="친구와의 채팅 폼 생성&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(기존 채팅 내용 불러오기)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="684" y="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>

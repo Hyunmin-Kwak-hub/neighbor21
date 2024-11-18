@@ -169,6 +169,12 @@
         <mxCell id="NMuOG6HGHyyeyibaQZFB-57" value="[메시지 전송]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NMuOG6HGHyyeyibaQZFB-56">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NMuOG6HGHyyeyibaQZFB-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NMuOG6HGHyyeyibaQZFB-59" value="[메시지 수신]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NMuOG6HGHyyeyibaQZFB-58">
+          <mxGeometry y="20" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

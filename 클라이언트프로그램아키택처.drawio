@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NMuOG6HGHyyeyibaQZFB-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="50" width="30" height="60" as="geometry" />
+        <mxCell id="NMuOG6HGHyyeyibaQZFB-92" value="" style="swimlane;startSize=0;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="800" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="NMuOG6HGHyyeyibaQZFB-8" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="NMuOG6HGHyyeyibaQZFB-92">
+          <mxGeometry x="115" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NMuOG6HGHyyeyibaQZFB-9" value="클라이언트" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="120" height="50" as="geometry" />
@@ -276,9 +279,6 @@
         </mxCell>
         <mxCell id="NMuOG6HGHyyeyibaQZFB-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="1159" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NMuOG6HGHyyeyibaQZFB-92" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="800" height="1470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

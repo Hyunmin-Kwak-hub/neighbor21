@@ -10,6 +10,9 @@
         <mxCell id="NMuOG6HGHyyeyibaQZFB-8" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="NMuOG6HGHyyeyibaQZFB-92">
           <mxGeometry x="115" y="40" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NMuOG6HGHyyeyibaQZFB-93" value="시퀀스 다이어그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NMuOG6HGHyyeyibaQZFB-92">
+          <mxGeometry x="10" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="NMuOG6HGHyyeyibaQZFB-9" value="클라이언트" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="120" height="50" as="geometry" />
         </mxCell>

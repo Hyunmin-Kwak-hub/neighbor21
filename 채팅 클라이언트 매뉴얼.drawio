@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vK1cgvXAHpRpSCuUHbaT-31" value="" style="swimlane;startSize=0;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="5790" y="1170" width="1850" height="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="vK1cgvXAHpRpSCuUHbaT-32" value="채팅창" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=30;" vertex="1" parent="vK1cgvXAHpRpSCuUHbaT-31">
+          <mxGeometry x="50" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vK1cgvXAHpRpSCuUHbaT-28" value="채팅 메시지 전송 버튼" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;strokeWidth=5;fontSize=20;fontStyle=1" vertex="1" parent="vK1cgvXAHpRpSCuUHbaT-31">
+          <mxGeometry x="1450" y="1030" width="240" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="ufkPrmzNYAgWxnfxYxpe-17" value="" style="swimlane;startSize=0;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-160" y="40" width="3870" height="1060" as="geometry" />
         </mxCell>
@@ -294,9 +303,6 @@
             <mxPoint x="6180" y="2770" as="sourcePoint" />
             <mxPoint x="4960" y="2830" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vK1cgvXAHpRpSCuUHbaT-28" value="채팅 메시지 전송 버튼" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;strokeWidth=5;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="7240" y="2400" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vK1cgvXAHpRpSCuUHbaT-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;strokeWidth=5;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="6890" y="2370" width="220" height="200" as="geometry" />

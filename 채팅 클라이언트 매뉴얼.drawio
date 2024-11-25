@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vK1cgvXAHpRpSCuUHbaT-28" value="채팅 메시지 전송 버튼" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;strokeWidth=5;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="7180" y="2380" width="240" height="110" as="geometry" />
+          <mxGeometry x="7240" y="2400" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vK1cgvXAHpRpSCuUHbaT-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;strokeWidth=5;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="6890" y="2370" width="220" height="200" as="geometry" />

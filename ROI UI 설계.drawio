@@ -29,13 +29,19 @@
           <mxGeometry x="470" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1zBdcWzT21QeWQQSh3dz-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="430" width="610" height="20" as="geometry" />
+          <mxGeometry x="165" y="430" width="555" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1zBdcWzT21QeWQQSh3dz-11" value="파일 위치" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1zBdcWzT21QeWQQSh3dz-12" value="컨트롤 부분" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="225" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1zBdcWzT21QeWQQSh3dz-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1zBdcWzT21QeWQQSh3dz-14" value="불러오기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="425" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

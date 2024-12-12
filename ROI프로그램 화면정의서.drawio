@@ -85,6 +85,9 @@
         <mxCell id="k2IExbmG30BHXQbMzV9h-23" value="" style="swimlane;startSize=0;strokeColor=#ffffff;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="590" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="k2IExbmG30BHXQbMzV9h-28" value="수정할 것.&lt;br&gt;버튼을 저렇게 덕지덕지 하지 말고 우클릭하면 생기는 컨텍스트 버튼(?)을 사용하는 쪽으로 변경하자.&lt;div&gt;혹시 이미지 파일을 끌어봐서 띄우는 것도 가능 할까?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="493" width="560" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

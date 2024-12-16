@@ -31,6 +31,27 @@
         <mxCell id="k2IExbmG30BHXQbMzV9h-24" value="ROI 프로그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;fontSize=17;fontStyle=1" parent="UIMSpT_CcA_fMDT5gsIS-1" vertex="1">
           <mxGeometry x="30" y="30" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-5" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3;arrowSize=0.65;rotation=-30;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="540" y="180" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="200" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-60" value="점 찍기" style="whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-61" value="그리기" style="whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-62" value="수정" style="whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-63" value="삭제" style="whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb9vioATFREBzsiz4ZFD-64" value="색상 변경" style="whiteSpace=wrap;html=1;" vertex="1" parent="UIMSpT_CcA_fMDT5gsIS-1">
+          <mxGeometry x="550" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="UIMSpT_CcA_fMDT5gsIS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="810" height="20" as="geometry" />
         </mxCell>

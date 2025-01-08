@@ -10,7 +10,7 @@
         <mxCell id="s6_-VDTN1BvuscFlEvzm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fillColor=#000000;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
           <mxGeometry x="320" y="150" width="800" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="s6_-VDTN1BvuscFlEvzm-2" value="영상 출력부분" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-2" value="영상 출력부분" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
           <mxGeometry x="340" y="170" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s6_-VDTN1BvuscFlEvzm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">

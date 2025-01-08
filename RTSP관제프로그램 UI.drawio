@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s6_-VDTN1BvuscFlEvzm-3" value="" style="swimlane;startSize=0;swimlaneFillColor=light-dark(#696969, #ededed);fillColor=none;" vertex="1" parent="1">
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-3" value="" style="swimlane;startSize=0;swimlaneFillColor=light-dark(#696969, #ededed);fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-280" width="1200" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="s6_-VDTN1BvuscFlEvzm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;fillColor=#000000;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
           <mxGeometry x="320" y="150" width="800" height="450" as="geometry" />
         </mxCell>
         <mxCell id="s6_-VDTN1BvuscFlEvzm-2" value="영상 출력부분" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
@@ -42,6 +42,21 @@
         </mxCell>
         <mxCell id="s6_-VDTN1BvuscFlEvzm-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;strokeColor=light-dark(#ff0000, #ededed);" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
           <mxGeometry x="820" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px; color: rgb(255, 255, 255);&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=light-dark(#ffffff, #ededed);fillColor=none;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+          <mxGeometry x="660" y="300" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#99CCFF;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+          <mxGeometry width="1200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-22" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fontSize=13;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+          <mxGeometry x="1180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-21" value="ㅁ" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fontSize=13;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+          <mxGeometry x="1160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-20" value="ㅡ" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fontSize=13;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-3">
+          <mxGeometry x="1140" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s6_-VDTN1BvuscFlEvzm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;strokeColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="270" y="-340" width="80" height="30" as="geometry" />

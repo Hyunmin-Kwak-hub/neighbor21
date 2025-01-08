@@ -280,6 +280,12 @@
         <mxCell id="s6_-VDTN1BvuscFlEvzm-165" value="RTSP 관제프로그램" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="s6_-VDTN1BvuscFlEvzm-59">
           <mxGeometry x="20" y="-5" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-166" value="영상 비율은 모두 16:9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-480" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_-VDTN1BvuscFlEvzm-167" value="RTSP 관제 프로그램 개발" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-653" y="-614" width="480" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
